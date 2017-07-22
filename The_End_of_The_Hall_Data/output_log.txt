@@ -1,0 +1,46 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\The End of the Hall\The_End_of_The_Hall_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 40Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.582432 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f68 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.627537 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 3.555981 ms (FindLiveObjects: 0.045832 ms CreateObjectMapping: 0.032794 ms MarkObjects: 0.388392 ms  DeleteObjects: 3.087381 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.839606 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.723049 ms (FindLiveObjects: 0.047017 ms CreateObjectMapping: 0.054129 ms MarkObjects: 0.540114 ms  DeleteObjects: 0.079416 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.245425 ms
+
+Unloading 978 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 9.451798 ms (FindLiveObjects: 0.135917 ms CreateObjectMapping: 0.161204 ms MarkObjects: 0.819851 ms  DeleteObjects: 8.297684 ms)
+
